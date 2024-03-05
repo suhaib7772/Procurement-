@@ -11,7 +11,7 @@ The goal of a procurement web application is to automate and optimize the procur
 |Admin |
 ||Approver center module|
 ||Purchase Requisition basic|
-||Advance PR Tracking System|
+||Advance PR Tracking System|----------|-----------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Track%20Purchase%20Request-ADMIN.md|---------|
 ||RFP-Basic|
 ||Purchase Order|
 ||Settings|
