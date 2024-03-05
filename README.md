@@ -34,7 +34,7 @@ The goal of a procurement web application is to automate and optimize the procur
 ||Purchase Requistions||---------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md|
 ||Purchase Request||--------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md|
 ||Approve Request||-----------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Approve%20Purchase%20Request%20USE%20CASE.md|
-||Request Form||
+||Request Form||---------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md|
 ||Setting||
 |Supplier|
 ||RFQ(Request for quotation)||
