@@ -8,10 +8,10 @@ The goal of a procurement web application is to automate and optimize the procur
 **Table of Content:** 
 |Module|Usecase Title|Prototype link|Tech Flow|Usecase Doc|TestCase|
 |------|--------------|---------------|----------|-----------|--------|
-|Admin |---------------|----------------|-----------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-ADMIN.md|---------|
-||Approver center module|--------------|-----------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-APPROVER.md|---------|
-||Purchase Requisition basic|----------|-----------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md|---------|
-||Advance PR Tracking System|----|-----|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Track%20Purchase%20Request-ADMIN.md|---------|
+|Admin ||||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-ADMIN.md)||
+||Approver center module|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-APPROVER.md)||
+||Purchase Requisition basic|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md)||
+||Advance PR Tracking System|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Track%20Purchase%20Request-ADMIN.md)||
 ||RFP-Basic|
 ||Purchase Order|
 ||Settings|
@@ -26,20 +26,20 @@ The goal of a procurement web application is to automate and optimize the procur
 ||
 ||
 |Requestor|
-||Request Model||-----------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-REQUESTOR.md|
-||My Request||-----------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Requestor%20-%20My%20Request%20Use%20Case.md|
-||Purchase Request Form||---------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md|
-||Create Request||---------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/CREATE-NEW%20REQUEST%20FORM.md|
-||Request Timeline||--------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Request%20Timeline%20Overview-REQUESTOR.md|
-||Track Request||---------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/track%20system-REQUESTOR.md|
+||Request Model|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-REQUESTOR.md)|
+||My Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Requestor%20-%20My%20Request%20Use%20Case.md)|
+||Purchase Request Form|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md)|
+||Create Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/CREATE-NEW%20REQUEST%20FORM.md)|
+||Request Timeline|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Request%20Timeline%20Overview-REQUESTOR.md)|
+||Track Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/track%20system-REQUESTOR.md)|
 ||Purchase Request Module||
 ||Prefrences Module||
 |Approver|
-||Approver Center||--------------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-APPROVER.md|
-||Purchase Requistions||---------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md|
-||Purchase Request||--------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md|
-||Approve Request||-----------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Approve%20Purchase%20Request%20USE%20CASE.md|
-||Request Form||---------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md|
+||Approver Center|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-APPROVER.md)|
+||Purchase Requistions|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md)|
+||Purchase Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md)|
+||Approve Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Approve%20Purchase%20Request%20USE%20CASE.md)|
+||Request Form|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md)|
 ||Setting||
 |Supplier|
 ||RFQ(Request for quotation) Module||
@@ -47,6 +47,4 @@ The goal of a procurement web application is to automate and optimize the procur
 ||Invoices Module||
 ||Negotiation Module||
 ||Payment Module|| 
-||
-|Inventory|
 ||
