@@ -17,8 +17,12 @@ The goal of a procurement web application is to automate and optimize the procur
 ||Settings|
 ||Support|
 ||Supplier Mangement||
-||Purchase Requistion||
-||inovice||
+||Item Management||
+||Inventory Overview Module||
+||Payments Monitoring Module||
+||Purchase Request Module||
+||inovice Module||
+||RBAC||
 ||
 ||
 |Requestor|
@@ -28,7 +32,8 @@ The goal of a procurement web application is to automate and optimize the procur
 ||Create Request||---------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/CREATE-NEW%20REQUEST%20FORM.md|
 ||Request Timeline||--------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Request%20Timeline%20Overview-REQUESTOR.md|
 ||Track Request||---------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/track%20system-REQUESTOR.md|
-||Prefrences||
+||Purchase Request Module||
+||Prefrences Module||
 |Approver|
 ||Approver Center||--------------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-APPROVER.md|
 ||Purchase Requistions||---------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md|
@@ -37,9 +42,11 @@ The goal of a procurement web application is to automate and optimize the procur
 ||Request Form||---------|https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md|
 ||Setting||
 |Supplier|
-||RFQ(Request for quotation)||
-||Purchase Order||
-||Invoices||
+||RFQ(Request for quotation) Module||
+||Purchase Order Module||
+||Invoices Module||
+||Negotiation Module||
+||Payment Module|| 
 ||
 |Inventory|
 ||
