@@ -4,7 +4,7 @@
 **Release version:** 0.0.2 
 
 
-**Description:** It provides a centralized platform for administrators, requestors, and suppliers to manage various procurement activities efficiently. The application aims to enhance collaboration, transparency, and control over purchasing processes while improving overall operational efficiency.
+**Description:** It provides a centralized platform for admins, requestors, and suppliers to manage various procurement activities efficiently. The application aims to enhance collaboration, transparency, and control over purchasing processes while improving overall operational efficiency.
 
 **Objectives:** The primary objective of Procurement Web Application Version 0.02 is to improve functionality and usability for administrators and users. The key goals of application is: 
 
@@ -26,11 +26,11 @@
 - **Inventory Overview Module:** Provides an overview of inventory levels, stock movements, and related analytics.
 - **Role-Based Access Control (RBAC):** Ensures that administrators have appropriate access rights and permissions based on their roles and responsibilities.
 
-1. **Requestor:**
+2. **Requestor:**
 - **Purchase Request Module**: Allows requestors to submit, track, and manage purchase requests seamlessly.
 - **Preference Module:** Enables requestors to set preferences for suppliers, items, and other procurement-related parameters.
 
-1. **Supplier Portal:**
+3. **Supplier Portal:**
 - **RFQ Module:** Facilitates the creation, submission, and management of requests for quotations by suppliers.
 - **Negotiation Module:** Provides tools for negotiating terms, pricing, and conditions between suppliers and buyers.
 - **Purchase Order Module**: Allows suppliers to view, acknowledge, and process purchase orders received from buyers.
