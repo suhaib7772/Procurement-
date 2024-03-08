@@ -13,9 +13,9 @@ The goal of a procurement web application is to automate and optimize the procur
 ||Purchase Requisition basic|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md)||
 ||Advance PR Tracking System|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Track%20Purchase%20Request-ADMIN.md)||
 ||RFP-Basic|
-||Purchase Order|
-||Settings|
 ||Support|
+||Settings|
+||Purchase Order Module||
 ||Supplier Mangement||
 ||Item Management||
 ||Inventory Overview Module||
