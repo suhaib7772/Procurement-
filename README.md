@@ -7,7 +7,7 @@ The goal of a procurement web application is to automate and optimize the procur
 
 **Table of Content:** 
 |Module|Usecase Title|Prototype link|Tech Flow|Usecase Doc|TestCase|
-|------|--------------|---------------|----------|-----------|--------|
+|------|--------------|---------------|----------|-----------|-----|
 |Admin ||||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-ADMIN.md)||
 ||Approver center module|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-APPROVER.md)||
 ||Purchase Requisition basic|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md)||
@@ -21,7 +21,7 @@ The goal of a procurement web application is to automate and optimize the procur
 ||Inventory Overview Module||
 ||Payments Monitoring Module||
 ||Purchase Request Module||
-||inovice Module||
+||Inovice Module||
 ||RBAC||
 ||
 ||
@@ -34,6 +34,8 @@ The goal of a procurement web application is to automate and optimize the procur
 ||Track Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/track%20system-REQUESTOR.md)|
 ||Purchase Request Module||
 ||Prefrences Module||
+||
+||
 |Approver|
 ||Approver Center|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-APPROVER.md)|
 ||Purchase Requistions|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md)|
@@ -41,6 +43,8 @@ The goal of a procurement web application is to automate and optimize the procur
 ||Approve Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Approve%20Purchase%20Request%20USE%20CASE.md)|
 ||Request Form|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md)|
 ||Setting||
+||
+||
 |Supplier|
 ||RFQ(Request for quotation) Module||
 ||Purchase Order Module||
