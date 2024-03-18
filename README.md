@@ -26,12 +26,12 @@ The goal of a procurement web application is to automate and optimize the procur
 ||
 ||
 |Requestor|
-||Request Model|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-REQUESTOR.md)|
-||My Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Requestor%20-%20My%20Request%20Use%20Case.md)|
-||Purchase Request Form|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md)|
-||Create Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/CREATE-NEW%20REQUEST%20FORM.md)|
+||Request Model|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/DASHBOARD-REQUESTOR.md)|https://github.com/umranBatuwah/Procurement-Docs/blob/main/TESTCASES%20MD%20FILE/Test%20Case%20REQUESTOR%20DASHBOARD.md|
+||My Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Requestor%20-%20My%20Request%20Use%20Case.md)|https://github.com/umranBatuwah/Procurement-Docs/blob/main/TESTCASES%20MD%20FILE/Test%20Case-Top%20Panel%20My%20Request.md|
+||Purchase Request Form|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Purchase%20Request%20USE%20CASE.md)|https://github.com/umranBatuwah/Procurement-Docs/blob/main/TESTCASES%20MD%20FILE/Test%20Case%20CREATE%20PURCHASE%20REQUEST%20.md|
+||Create Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/CREATE-NEW%20REQUEST%20FORM.md)|https://github.com/umranBatuwah/Procurement-Docs/blob/main/TESTCASES%20MD%20FILE/Test%20Case%20CREATE%20PURCHASE%20REQUEST%20.md|
 ||Request Timeline|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/Request%20Timeline%20Overview-REQUESTOR.md)|
-||Track Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/track%20system-REQUESTOR.md)|
+||Track Request|||[Usecase Doc](https://github.com/umranBatuwah/Procurement-Docs/blob/main/use%20cases/track%20system-REQUESTOR.md)|https://github.com/umranBatuwah/Procurement-Docs/blob/main/TESTCASES%20MD%20FILE/Test%20Case%20TRACK%20REQUEST%20OVERVIEW.md|
 ||Purchase Request Module||
 ||Prefrences Module||
 ||
